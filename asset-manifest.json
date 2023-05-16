@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.57006f94.css",
+    "main.js": "/Portfolio/static/js/main.b98f962f.js",
+    "static/media/Marketplug-Website.png": "/Portfolio/static/media/Marketplug-Website.c3588d1e02426dc7e843.png",
+    "static/media/me.png": "/Portfolio/static/media/me.8841be91d5b29148b533.png",
+    "static/media/CV-KOMAL.pdf": "/Portfolio/static/media/CV-KOMAL.a396ddbe18dd00cbd0c2.pdf",
+    "static/media/award.png": "/Portfolio/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/address.png": "/Portfolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/Portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/KL.jpg": "/Portfolio/static/media/KL.6e3d5bb3cabebd887ddb.jpg",
+    "static/media/sun.png": "/Portfolio/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/Portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/Portfolio/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/Portfolio/index.html",
+    "main.57006f94.css.map": "/Portfolio/static/css/main.57006f94.css.map",
+    "main.b98f962f.js.map": "/Portfolio/static/js/main.b98f962f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57006f94.css",
+    "static/js/main.b98f962f.js"
+  ]
+}
