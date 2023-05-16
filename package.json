@@ -17,6 +17,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm rum build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -37,7 +39,11 @@
       "last 1 safari version"
     ]
   },
+
+  "homepage" : "https://komal-lohana.github.io/Portfolio/",
+
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
+
 }
